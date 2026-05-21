@@ -42,4 +42,4 @@ Working on an original AI architecture combining loop-based latent reasoning (Ou
 
 - Site: [voidware.xyz](https://voidware.xyz)
 - GitHub: [github.com/bouclem](https://github.com/bouclem)
-- X: [@VoidwareLabs](https://x.com/Voidware_Labs)
+- X: [@Sqersters](https://x.com/Sqersters)
